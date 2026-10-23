@@ -1,0 +1,12 @@
+{
+  "name": "brainrot-cases",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Brainrot Cases web game",
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.76.1"
+  }
+}
